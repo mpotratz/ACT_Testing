@@ -30,10 +30,13 @@
             
 
         </asp:TabPanel>
-        <asp:TabPanel ID="TabPanel1" runat="server" HeaderText="Second Tab">
+        <asp:TabPanel ID="TabPanel1" runat="server" HeaderText="First Tab">
 
         </asp:TabPanel>
-        <asp:TabPanel ID="TabPanel2" runat="server" HeaderText="Third Tab">
+        <asp:TabPanel ID="TabPanel2" runat="server" HeaderText="Second Tab">
+
+        </asp:TabPanel>
+        <asp:TabPanel id="TabPanel3" runat="server" HeaderText="Third Tab">
 
         </asp:TabPanel>
     </asp:TabContainer>
